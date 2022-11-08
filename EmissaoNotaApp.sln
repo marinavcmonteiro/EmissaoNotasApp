@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmissaoNotaApp.Console", "src\EmissaoNotaApp.Console\EmissaoNotaApp.Console.csproj", "{1B6E9165-422C-4CF5-A875-D01E638CBFFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmissaoNotaApp.Application", "src\EmissaoNotaApp.Application\EmissaoNotaApp.Application.csproj", "{9344CFCF-452B-4ADE-9A0E-38F8347B3921}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B6E9165-422C-4CF5-A875-D01E638CBFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6E9165-422C-4CF5-A875-D01E638CBFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6E9165-422C-4CF5-A875-D01E638CBFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6E9165-422C-4CF5-A875-D01E638CBFFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9344CFCF-452B-4ADE-9A0E-38F8347B3921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9344CFCF-452B-4ADE-9A0E-38F8347B3921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9344CFCF-452B-4ADE-9A0E-38F8347B3921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9344CFCF-452B-4ADE-9A0E-38F8347B3921}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
